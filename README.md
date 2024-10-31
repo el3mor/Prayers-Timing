@@ -12,7 +12,7 @@ This project is a React application that displays prayer timings for different c
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/prayers-timings.git
+    git clone https://github.com/el3mor/prayers-timings.git
     ```
 2. Navigate to the project directory:
     ```bash
