@@ -35,12 +35,6 @@ This project is a React application that displays prayer timings for different c
 
 This project uses an external API to fetch prayer timings. Ensure you have the API key and endpoint configured in your environment variables.
 
-## Configuration
-
-
-REACT_APP_API_URL=https://aladhan.com/prayer-times-api
-```
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
